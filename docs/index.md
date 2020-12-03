@@ -22,17 +22,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Related Experience
 
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
 `April 2027 - June 2027`
 __Westmark Credit Union__, Consultant
 
@@ -47,7 +36,7 @@ __Good2Go__, Consultant
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
-### Data Science Consulting Team
+## Projects
 
 `January 2027 - April 2027`
 __Imagine Learning__
@@ -64,15 +53,23 @@ __Pinnacle Management Group__,
 - Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
+## Service History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2013-2015`
+__Servive Missionary__, Seoul, Korea
+- Enhanced training quality by translating 35+ meetings in English – Korean, English – Chinese
+- Managed and directed more than 190 volunteers in setting and achieving organizational goals
+- Increased efficiency of volunteer area efforts by developing a new language study system by serving as
+assistant to president 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
+`2011-2013`
+__Republic of Korea Army Reserve__, Incheon, Korea
+- Recognized for providing exceptional translation skills and lead Korean & US army combined combat
+training
+- Trained 15+new soldiers and effectively delegated tasks achieving greater performance and quality of
+service
+- Replaced outdated hardware to improve performance and troubleshot and addressed the server issue
 
 
 <!-- ### Footer
