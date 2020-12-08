@@ -72,8 +72,7 @@ training
 - Trained 15+new soldiers and effectively delegated tasks achieving greater performance and quality of
 service
 - Replaced outdated hardware to improve performance and troubleshot and addressed the server issue
-<!-- ### Footer
 
-Last updated: May 2013 -->
+<!-- ### Footer Last updated: May 2013 -->
 
 
