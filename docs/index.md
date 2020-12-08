@@ -20,7 +20,6 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Full academic scholarship with 4.0 GPA
 - Societies: Data Science Society
 
-
 ## Related Experience
 
 `Oct 2019 - Present`
@@ -29,14 +28,12 @@ __Brigham Young University - Idaho__, Data Analyst
 - Support the dean of physical sciences and engineering by making a machine learning model in R
 - Formatted, cleaned, combined, and filtered thousands of student data and provide visualizations in R 
 
-
 `Dec 2019 - Present`
 __Brigham Young University-Idaho__, IT Data Analyst 
 
 - Increased the performance of the Learning Managing System(LMS) website of the school by 25%
 giving solutions to vendors by analyzing over 35,000 real user data. 
 - Write code to manipulate, transform, and format data, using SQL make dashboard using Dynatrace
-
 
 `Mar 2020`
 __Customer Behavior ML Competition__
