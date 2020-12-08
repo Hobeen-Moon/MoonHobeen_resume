@@ -3,10 +3,9 @@ layout: cv
 title: Hobeen Moon's Resume
 ---
 # Hobeen Moon
-asd asd asd asd asd
 
 <div id="webaddress">
-<a href="qlekr2@hotmail.com">qlekr2@hotmail.com</a>
+<a href="moo18024@byui.edu">qlekr2@hotmail.com</a>
 | <a href="www.linkedin.com/in/hobeen-moon">LinkedIn</a>
 | <a href="https://hobeen-moon.github.io/MoonHobeen_resume/.">GitHub</a>
 </div>
@@ -17,8 +16,9 @@ asd asd asd asd asd
 
 `Expected Graduation: Jul 2021`
 __Brigham Young University - Idaho__, Rexburg, ID 
-Bachelor of Science in Data Science 
+*Bachelor of Science in Data Science*
 - Full academic scholarship with 4.0 GPA
+- Societies: Data Science Society
 
 
 ## Related Experience
@@ -51,15 +51,30 @@ __Shiny Dashboard Project__
 - Pulled Qualtrics survey through API, analyzed it with R, and built interactive dashboard with a Shiny app 
 - Saved more than 60% of time for faculties in matching students with future employers 
 
+## Technical Skills
+- blah
+- blah
+- blah
+- blah
+
 ## Service History
 
 `2013-2015`
 __Servive Missionary__, Seoul, Korea
 
+- Enhanced training quality by translating 35+ meetings in English – Korean, English – Chinese
+- Managed and directed more than 190 volunteers in setting and achieving organizational goals
+- Increased efficiency of volunteer area efforts by developing a new language study system by serving as
+assistant to president 
+
 `2011-2013`
 __Republic of Korea Army Reserve__, Incheon, Korea
 
-
+- Recognized for providing exceptional translation skills and lead Korean & US army combined combat
+training
+- Trained 15+new soldiers and effectively delegated tasks achieving greater performance and quality of
+service
+- Replaced outdated hardware to improve performance and troubleshot and addressed the server issue
 <!-- ### Footer
 
 Last updated: May 2013 -->
