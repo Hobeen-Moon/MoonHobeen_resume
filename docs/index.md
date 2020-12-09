@@ -49,10 +49,11 @@ __Shiny Dashboard Project__
 - Saved more than 60% of time for faculties in matching students with future employers 
 
 ## Technical Skills
-- blah
-- blah
-- blah
-- blah
+- Practice in current analysis, presentation, and collaboration tools (R, python, Github and Power BI).
+- Use SQL skills such as C.R.U.D. and query functions.
+- Know how to properly use matplotlib, pandas, and numpy.
+- Special training with Altair and Sklearn (machine learning).
+- Knowledge and experience with data wrangling and visualization.
 
 ## Service History
 
